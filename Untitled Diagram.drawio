@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T09:29:41.058Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="A7wdFVO4e-Xxm4Pl5kX5" type="github"><diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">5ZlZb+M2EMc/jR9r6Lb1uHGOFmiBRVO0jwJN0RKxFClQlI9++g4tSpZMJnAWduHN+iERZ3iI8/95eHgWrqr9i0R1+YfICZsFXr6fhY+zIPCjMIJ/2nLoLFGadoZC0txUOhle6b/EGD1jbWlOmklFJQRTtJ4aseCcYDWxISnFblptI9h01BoVxDK8YsRs6z80V6Wx+p53cvxKaFGaoZexcawR/lZI0XIz3iwIN8dP565Q35ep35QoF7uRKXyahSsphOqeqv2KMB3bPmxdu+c3vMN7S8LVJQ0WXpIkizjBy2i9TkP8i+lhi1hL+ikcX1Qd+uBAD6ADFB52JVXktUZYe3aAAthKVTEo+fB4jAPRI3lQGqaqC1hUFPcOJcW3Ic664UZw9YwqyjQ+fxOZI46M2bDiR0PDlWBCgokLrt9pQxnrTRB9z0vSY592ZPqpEqnIfmQykXohoiJKHqCK8QZLo9ph4KEr706MxD0i5QiPwYgMl8XQ90kbeDDyXChVYEn1xBWRtaQgTpAwGPwhp1t4LPTjQ9tQTpqmd8F4I6+jgflau2vfIRNauouYMN/IrrGLlWOnZnKOr9SHwYm8KTgwlAVOkDjAGYxXBSe2wFmJqmo5VQdL2IlCOWrKQbuRqB8KOkNrwr6KhioqOPgw0dSCQ8eTQg7+/azCWiglqlGFL4wW2qFE3TFU65et9oVejOZis6GYzNuGyKb7a2E3Ju3CXHOGyvPxc520EsZTOqLIpiNKXFnlBmwkNhttA+EHhewM8UrkFmJ9YY74wVGC2izrRshg+ddy3zVWySKZYuWHl2EV3wCrhYXVn6SpBXeuVC8Q1vrngEqaKGTFcc73TdR5ogo8m6h46SAqugFRSztRwcwkYq6dDISqIJWe+aWbn58ktTXdNCG7dcHLqiFUmfHdO5T+YgJl6Ehzsf8/QZlaUD7SgionlI9kS5io36PyM1Gms53gWS1JBeeTJutsdw7X4nzjvgzsNTRywLW8AVz9aXNE118ElxymXhwcgK20RBB/pMibh77PQxhuJZxf5gpejf8gqSs63/inNl2uU2Gc3IIu++bnN76RCNRusWol+TywYMExqdUkH905KnEanqFinxFDVyK6xWbet2+eXphYO1e5r0gqDrm/1Fe3nzwJDVwVEA2SUT0IJ/d+Towif4KW77p+SG20ett10QottJ74lkrB9T7JSdiXnZ79OxebV8PrXPaqwYjMCxgcds5afUV5K9omwwfM3uPxZji4cf1+/JHpZ2hxjVR2tur5YWzz5jpF3uK6y7fvQp8pRxw7l7uJ+g2EppnDoQm28XPSSjEl6C3tnWR9Zx6y5Hnndn1C+n1loCScHuH8ZWoTETuI8D9MBBRPP64dfaNfMMOn/wA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-13T13:30:47.933Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="qfZZbYRCxgQObirM6OFn" version="13.7.9" type="github">
+  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="70666756c84bb93c-2" value="&lt;h1 style=&quot;font-size: 38px&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 38px&quot;&gt;&lt;span style=&quot;font-size: 38px&quot;&gt;خطة العمل&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 38px&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 38px&quot;&gt;&quot;Pub Up&quot;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=38;strokeColor=none;fontColor=#0069D1;fontStyle=1;labelBackgroundColor=none;fillColor=#E8FF4F;" parent="1" vertex="1">
+          <mxGeometry x="580" y="397" width="392" height="392" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;strokeWidth=100;fontSize=15;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="528" y="350" width="510" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;u&gt;الفئة المستهدفة&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="630" y="340" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;u&gt;التواصل الدائم مع&amp;nbsp;&lt;br&gt;العملاء&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.response_group;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="750" y="790" width="58" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-8" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;&lt;u&gt;الحفاظ على&amp;nbsp;&lt;br&gt;العميل&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.services.central_management_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="980" y="589.88" width="70" height="74.12" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;u&gt;تقديم خدمات&lt;br&gt;بمستواى عالي&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.security.token_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="510" y="580" width="70" height="65.33" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=41;fontColor=none;strokeWidth=4;" edge="1" parent="1" source="70666756c84bb93c-12" target="izN0vsD3s-qDRVFHv_P2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-12" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;u&gt;&lt;b&gt;النشر العام&lt;br&gt;للمشروع&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.globe_internet;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="758" y="310" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-13" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;تجديد ثقة العميل&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.general.continuous_cycle;fillColor=#ffffff;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1">
+          <mxGeometry x="890" y="352.19000000000005" width="55.5" height="57.81" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;u&gt;رضاء العميل&amp;nbsp;&lt;br&gt;بالثمن المناسب&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="897.5" y="749" width="45" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-2" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="988" y="615.33" width="15.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;strokeWidth=8;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-6" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=timer;strokeColor=#FFFFFF;strokeWidth=2;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="603" y="740" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-11" value="&lt;font style=&quot;font-size: 18px&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;&lt;u&gt;كسب ثقة العميل&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-12" value="الوقت" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=21;fontColor=#FFFFFF;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="608" y="802" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-17" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=boundInt;symbol=message;strokeColor=#FFFFFF;strokeWidth=2;fillColor=none;fontSize=21;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="965.5" y="450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-18" value="إطلاع العميل على&lt;br style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;جمبع المستجدات" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontColor=#FFFFFF;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="950" y="520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-19" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;fontFamily=Verdana;fontSize=14;verticalAlign=top;comic=0;fillColor=#fff2cc;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="723" y="120" width="237" height="118.5" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/transparent-on-dark-grey/500/icon-04-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#E8FF4F;fontFamily=Comic Sans MS;fontSize=41;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/global-top-brands/90/whatsapp-logo-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#E8FF4F;fontFamily=Comic Sans MS;fontSize=41;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="164.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/transparent-on-dark-grey/500/icon-02-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#E8FF4F;fontFamily=Comic Sans MS;fontSize=41;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-ui-2-line/32/people-plus-add-friend-member-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#E8FF4F;fontFamily=Comic Sans MS;fontSize=41;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="125" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/strongicon-vol-25-free/24/nature-22-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#E8FF4F;fontFamily=Comic Sans MS;fontSize=41;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="164.25" width="35.75" height="35.75" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Twitter-Outline-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#E8FF4F;fontFamily=Comic Sans MS;fontSize=41;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="877" y="196" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-29" value="&lt;font size=&quot;1&quot;&gt;: نشر خدماتنا و أعمالنا من خلال&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=41;fontFamily=Comic Sans MS;fontColor=none;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="723" y="90" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-30" value="Fb ads, insta ads ;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="723" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-31" value="Les flyers , share with&lt;br style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;friends ;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="719.02" y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#E8FF4F;fontFamily=Comic Sans MS;fontSize=11;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="859.02" y="125.31" width="17.98" height="107.87" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-33" value="&lt;b&gt;share whatsapp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Comic Sans MS;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="719.02" y="196" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-35" value="Find client&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="797" y="216" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-36" value="&lt;font style=&quot;font-size: 10px&quot;&gt;faux comptes;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="723" y="213.18" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
