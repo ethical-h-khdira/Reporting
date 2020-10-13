@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T13:30:47.933Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="qfZZbYRCxgQObirM6OFn" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T14:24:14.622Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="GRWZZlhP2JJ1t7o4cncK" version="13.7.9" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,16 @@
         </mxCell>
         <mxCell id="izN0vsD3s-qDRVFHv_P2-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;strokeWidth=100;fontSize=15;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="528" y="350" width="510" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontFamily=Comic Sans MS;fontSize=11;fontColor=none;" edge="1" parent="1" source="70666756c84bb93c-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="653" y="300" />
+              <mxPoint x="630" y="300" />
+              <mxPoint x="630" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="70666756c84bb93c-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;u&gt;الفئة المستهدفة&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="630" y="340" width="46" height="50" as="geometry" />
@@ -96,6 +106,45 @@
         </mxCell>
         <mxCell id="izN0vsD3s-qDRVFHv_P2-36" value="&lt;font style=&quot;font-size: 10px&quot;&gt;faux comptes;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="723" y="213.18" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-38" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;fillColor=#ffe6cc;fontFamily=Comic Sans MS;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="520" y="10" width="156" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-39" value="" style="shape=mxgraph.signs.healthcare.eye;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=11;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528" y="20" width="32" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-40" value="" style="shape=mxgraph.signs.food.fast_food;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=11;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="528" y="48.19" width="32.92" height="31.81" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-41" value="" style="shape=mxgraph.signs.science.laboratory;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=11;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530.96" y="93" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-43" value="" style="shape=mxgraph.signs.transportation.car_lock;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=11;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="531.4100000000001" y="130" width="28.74" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/support-centre-hand-drawn-design/512/hand_book_support_centre-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#E8FF4F;fontFamily=Comic Sans MS;fontSize=11;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="527.96" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-45" value="Les optiques" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-46" value="Les restaurants&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="554" y="60" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-47" value="Les Laboratoires&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="554" y="100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-48" value="c.locations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="132" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-49" value="Centre d&#39;étude" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontFamily=Comic Sans MS;fontColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="545" y="164.25" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-50" value="&lt;font style=&quot;font-size: 53px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=53;fontFamily=Comic Sans MS;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="156" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-51" value="Etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=25;fontFamily=Comic Sans MS;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530.96" y="186" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
