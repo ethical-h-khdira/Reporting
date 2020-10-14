@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T00:41:17.249Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="H29UC96ext5K46Gh7BiI" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T01:02:21.554Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="RlFddS9h6dOTr9Ggamnp" version="13.7.9" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="1185" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,6 +38,11 @@
         </mxCell>
         <mxCell id="70666756c84bb93c-8" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;&lt;u&gt;الحفاظ على&amp;nbsp;&lt;br&gt;العميل&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.services.central_management_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="980" y="589.88" width="70" height="74.12" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fontFamily=Georgia;fontSize=16;fontColor=none;" edge="1" parent="1" source="70666756c84bb93c-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="70666756c84bb93c-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;u&gt;تقديم خدمات&lt;br&gt;بمستواى عالي&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.security.token_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="510" y="580" width="70" height="65.33" as="geometry" />
@@ -266,6 +271,33 @@
         </mxCell>
         <mxCell id="izN0vsD3s-qDRVFHv_P2-103" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=#66FFFF;fontFamily=Georgia;fontSize=22;fontColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="464" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-105" value="" style="whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=#66FFFF;strokeWidth=5;fillColor=#fff2cc;fontFamily=Georgia;fontSize=16;align=right;" vertex="1" parent="1">
+          <mxGeometry x="30" y="530" width="370" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-v1-0-outline-1/96/Quality_Badge-128.png;shadow=0;strokeColor=#000000;strokeWidth=5;fillColor=#E8FF4F;fontFamily=Georgia;fontSize=16;fontColor=none;align=right;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="315" y="520" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-107" value="&lt;font style=&quot;font-size: 19px&quot;&gt;تقديم الخدمة على طلب و رأي العميل&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontFamily=Georgia;fontColor=none;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="90" y="530" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-108" value="&lt;b&gt;&lt;u&gt;تقبل جميع تناقضات العميل و تصحيح الأخطاء&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontFamily=Georgia;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="559.88" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-110" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.scheduler;pointerEvents=1;shadow=0;labelBackgroundColor=#4D4D4D;fontFamily=Georgia;fontSize=17;fontColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330" y="597.37" width="51" height="65.92" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/geosm-e-commerce/48/pack-128.png;shadow=0;strokeColor=#000000;strokeWidth=5;fillColor=#000000;fontFamily=Georgia;fontSize=17;fontColor=none;align=right;" vertex="1" parent="1">
+          <mxGeometry x="320.33000000000004" y="656.58" width="84.67" height="84.67" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-114" value="&lt;b&gt;&lt;u&gt;تطابق التام مع طلب العميل و الخدمة المقدمةا&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontFamily=Georgia;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="589.8800000000001" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-115" value="&lt;b&gt;&lt;u&gt;إحترام الوقت المتفق عليه و عدم التأخير&lt;br&gt;في رد الرسائل للمرسل أو العميل&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontFamily=Georgia;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="619.88" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="izN0vsD3s-qDRVFHv_P2-116" value="&lt;b&gt;&lt;u&gt;إرسال المنتج أو الخدمة ع تغليف بهي جمبع المعلومات&lt;br&gt;&amp;nbsp;و الخدمات الأخرى&amp;nbsp; و عروض خاص&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontFamily=Georgia;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="673.92" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
